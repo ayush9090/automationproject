@@ -6,6 +6,8 @@
 - 🌱 I’m currently learning **nodejs**
 
 - 📄 write in cmd for finding near place: [resturent,hospital,etc](resturent,hospital,etc)
+- example how to run:
+- node project.js placename nearme Emailid
 
 
 <h3 align="left">Languages and Tools:</h3>
