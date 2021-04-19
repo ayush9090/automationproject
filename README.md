@@ -6,6 +6,7 @@
 - 📄 write in cmd for finding near place: [resturent,hospital,etc](resturent,hospital,etc)
 - example how to run:
 - node project.js placename nearme Emailid
+- this scipt will get placename and address's near you.
 - txt would then be sent to the receiver_email
 
 
