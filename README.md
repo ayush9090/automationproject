@@ -3,8 +3,6 @@
 
 - 🔭 I’m currently working on [automation using puppeteer](https://www.linkedin.com/posts/ayush-variaya-43a605184_hii-connectios-here-is-the-small-project-activity-6789607666068152320-9e0H)
 
-- 🌱 I’m currently learning **nodejs**
-
 - 📄 write in cmd for finding near place: [resturent,hospital,etc](resturent,hospital,etc)
 - example how to run:
 - node project.js placename nearme Emailid
